@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+motor
+pydantic[email]
+python-dotenv
+passlib[bcrypt]
+python-jose[cryptography]
+cloudinary
+requests
+apscheduler
+python-multipart
+aiofiles
